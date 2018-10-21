@@ -14,10 +14,10 @@ O objetivo principal do projeto consistiu em aplicar os conhecimentos de program
 Final project created on the classe Programming Language 1, on the second semester of the course Bachelor degree Computer Science at the 
 Instituto Federal Catarinense of Rio do Sul, over the orientation of the Prof. Rodrigo Curvêllo.
 The project consists of a graphical statistical calculator built with the help of the eclipse app Window Builder found at the eclipse store.
-The calculator performs que most used and important functions of statistics which goes from compute the mean, standard deviation, curtoses
-to linear and quadratic regression.Also the calculator offers the possibility of save a data set on the xml format for later use.
+The calculator performs the most used and important functions of statistics which goes from to compute the mean, standard deviation, curtoses
+to linear and quadratic regression. Also the calculator offers the possibility to save a data set in the xml format.
 The libraries jdom and Lib Math Apache are required to run the project.
-The main purpose of this project was to apply the knowledge of object oriented  programming acquired along the semester.
+The main purpose of this project was to apply the knowledge of object oriented  programming acquired during the semester.
 
 
 
